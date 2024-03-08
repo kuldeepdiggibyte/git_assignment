@@ -1,4 +1,4 @@
 # git_assignment
 
 #made changes
->>>>>>> refs/remotes/origin/main
+<p> Added screenshot of 9 sub questions with questions</p>

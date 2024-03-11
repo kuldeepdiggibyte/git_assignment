@@ -56,21 +56,21 @@ Back in the pull request on GitHub, the conflict should now be resolved.
 
 </p><br>
 <p>
-  assignment_4
+  assignment_4 <br>
   Create a Feature Branch:
 Switch to the New Branch:
- I switched to the feature-branch.
+ I switched to the feature-branch.<br>
 I added and committed these changes to the feature-branch.
-Using git cherry-pick, I applied the changes from the identified commits to the target branch.
+Using git cherry-pick,<br> I applied the changes from the identified commits to the target branch.
 </p><br>
 <p> Assignment_5 
 Create a Feature Branch
-Within my local copy of the repository, I opened the file and made necessary changes to the code.
-I added and committed these changes to the feature-branch.
-Resetting Commits:
+Within my local copy of the repository,<br> I opened the file and made necessary changes to the code.
+<br>I added and committed these changes to the feature-branch.
+<br>Resetting Commits:
 I used the git reset command to move the branch pointer to a different commit.
 The specific commit I wanted to reset to was identified using its hash.
-Verifying the Reset:
+<br>Verifying the Reset:
 I verified that the reset was successful by checking the commit history using git log.
 The commit hash or reference was provided as an argument to git revert.
 </p>

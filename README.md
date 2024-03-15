@@ -39,7 +39,6 @@
 <br>
 <p>
   <strong>Assignment_3<strong>
-
   <strong>step 1:</strong>Resolve the Conflict Locally:
 When the pull request encounters a conflict, I’ll manually resolve it by editing the affected files.
 Continue the Rebase:

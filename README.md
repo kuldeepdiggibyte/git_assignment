@@ -38,19 +38,16 @@
 </p>
 <br>
 <p>
-  <strong>Assignment_3<strong>
-  <strong>step 1:</strong>Resolve the Conflict Locally:
-When the pull request encounters a conflict, I’ll manually resolve it by editing the affected files.
-Continue the Rebase:
-git rebase --continue
+  <strong>Assignment_3<strong><br>
+  <strong>step 1:</strong>Resolve the Conflict Locally:When the pull request encounters a conflict, I’ll manually resolve it by editing the affected files.
+<strong>step 2:</strong>Continue the Rebase: git rebase --continue
+  <strong>step 3:</strong>This command instructs Git to proceed with applying the remaining commits from the pull request.
 
-This command instructs Git to proceed with applying the remaining commits from the pull request.
-
-<strong>step 2:</strong>Push the Updated Branch:
+<strong>step 4:</strong>Push the Updated Branch:
 Once everything is resolved, pushed the updated branch to the remote repository:
 git push origin feature-branch
 
-<strong>step 3:</strong>Update the Pull Request:
+<strong>step 5:</strong>Update the Pull Request:
 Back in the pull request on GitHub, the conflict should now be resolved.
 
 </p><br>

@@ -64,13 +64,13 @@ Back in the pull request on GitHub, the conflict should now be resolved.
   <strong>step 5:</strong>I applied the changes from the identified commits to the target branch.
 </p><br>
 <p> <strong>Assignment_5</strong><br> 
-Create a Feature Branch
-Within my local copy of the repository,<br> I opened the file and made necessary changes to the code.
-<br>I added and committed these changes to the feature-branch.
-<br>Resetting Commits:
-I used the git reset command to move the branch pointer to a different commit.
-The specific commit I wanted to reset to was identified using its hash.
-<br>Verifying the Reset:
-I verified that the reset was successful by checking the commit history using git log.
-The commit hash or reference was provided as an argument to git revert.
+<strong>step 1:</strong>Create a Feature Branch<br>
+Within my local copy of the repository<br>
+  <strong>step 2:</strong>I opened the file and made necessary changes to the code.<br>
+  <strong>step 3:I added and committed these changes to the feature-branch.<br>
+  <strong>step 4:Resetting Commits:I used the git reset command to move the branch pointer to a different commit.<br>
+The specific commit I wanted to reset to was identified using its hash.<br>
+<strong>step 5:</strong>Verifying the Reset:
+I verified that the reset was successful by checking the commit history using git log.<br>
+<strong>step 6:The commit hash or reference was provided as an argument to git revert.
 </p>

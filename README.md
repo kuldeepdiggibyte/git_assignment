@@ -1,5 +1,5 @@
 <h3> This is assignment which contains 5 question</h3>
-<p> <strong>in assignment_1</strong><br>
+<p> <strong> assignment_1</strong><br>
 <strong>step 1:</strong>Initialized a new Git repository.<br>
 <strong>step 2:</strong>Added a file and committed changes.<br>
 <strong>step 3:</strong>Viewed the commit history.<br>
@@ -10,7 +10,7 @@
 <strong>step 8:</strong>Fetched updates from the original repository.<br>
 <strong>step 9:</strong>Pulled changes into your local copy.</p>
 <br>
-<p>in assignment_2 
+<p><strong> assignment_2 </strong>
   
 1. **Cloned the Repository from GitHub**:
    - I initiated the process by cloning the repository from GitHub, creating a local copy on my machine.

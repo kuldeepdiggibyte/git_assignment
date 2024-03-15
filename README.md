@@ -55,15 +55,15 @@ Update the Pull Request:
 Back in the pull request on GitHub, the conflict should now be resolved.
 
 </p><br>
-<p>
-  assignment_4 <br>
-  Create a Feature Branch:
-Switch to the New Branch:
+<p><strong>assignment_4</strong> <br>
+  <strong>step1 :</strong>Create a Feature Branch <br>
+<strong>step2:</strong>Switch to the New Branch<br>
  I switched to the feature-branch.<br>
-I added and committed these changes to the feature-branch.
-Using git cherry-pick,<br> I applied the changes from the identified commits to the target branch.
+<strong>step 3:</strong>I added and committed these changes to the feature-branch.<br>
+<strong>step 4:</strong>Using git cherry-pick,<br> 
+  <strong>step 5:</strong>I applied the changes from the identified commits to the target branch.
 </p><br>
-<p> Assignment_5 
+<p> <strong>Assignment_5</strong><br> 
 Create a Feature Branch
 Within my local copy of the repository,<br> I opened the file and made necessary changes to the code.
 <br>I added and committed these changes to the feature-branch.

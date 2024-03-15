@@ -1,14 +1,14 @@
 <h3> This is assignment which contains 5 question</h3>
-<p> in assignment_1
-Initialized a new Git repository.
-Added a file and committed changes.
-Viewed the commit history.
-Modified the file.
-Verified the file was marked as “modified” and unstaged.
-Staged and committed the changes.
-Cloned the repository from GitHub.
-Fetched updates from the original repository.
-Pulled changes into your local copy.</p>
+<p> <strong>in assignment_1</strong><br>
+<strong>step 1:</strong>Initialized a new Git repository.<br>
+<strong>step 2:</strong>Added a file and committed changes.<br>
+<strong>step 3:</strong>Viewed the commit history.<br>
+<strong>step 4:</strong>Modified the file.<br>
+<strong>step 5:</strong>Verified the file was marked as “modified” and unstaged.<br>
+<strong>step 6:</strong>Staged and committed the changes.<br>
+<strong>step 7:</strong>Cloned the repository from GitHub.<br>
+<strong>step 8:</strong>Fetched updates from the original repository.<br>
+<strong>step 9:</strong>Pulled changes into your local copy.</p>
 <br>
 <p>in assignment_2 
   

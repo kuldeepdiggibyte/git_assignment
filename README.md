@@ -38,20 +38,20 @@
 </p>
 <br>
 <p>
-  Assignment_3
+  <strong>Assignment_3<strong>
 
-  Resolve the Conflict Locally:
+  <strong>step 1:</strong>Resolve the Conflict Locally:
 When the pull request encounters a conflict, I’ll manually resolve it by editing the affected files.
 Continue the Rebase:
 git rebase --continue
 
 This command instructs Git to proceed with applying the remaining commits from the pull request.
 
-Push the Updated Branch:
+<strong>step 2:</strong>Push the Updated Branch:
 Once everything is resolved, pushed the updated branch to the remote repository:
 git push origin feature-branch
 
-Update the Pull Request:
+<strong>step 3:</strong>Update the Pull Request:
 Back in the pull request on GitHub, the conflict should now be resolved.
 
 </p><br>
@@ -66,11 +66,11 @@ Back in the pull request on GitHub, the conflict should now be resolved.
 <p> <strong>Assignment_5</strong><br> 
 <strong>step 1:</strong>Create a Feature Branch<br>
 Within my local copy of the repository<br>
-  <strong>step 2:</strong>I opened the file and made necessary changes to the code.<br>
-  <strong>step 3:I added and committed these changes to the feature-branch.<br>
-  <strong>step 4:Resetting Commits:I used the git reset command to move the branch pointer to a different commit.<br>
+  <strong>step 2:</strong></strong>I opened the file and made necessary changes to the code.<br>
+  <strong>step 3:</strong>I added and committed these changes to the feature-branch.<br>
+  <strong>step 4:</strong>Resetting Commits:I used the git reset command to move the branch pointer to a different commit.<br>
 The specific commit I wanted to reset to was identified using its hash.<br>
-<strong>step 5:</strong>Verifying the Reset:
+<strong>step 5:</strong></strong>Verifying the Reset:
 I verified that the reset was successful by checking the commit history using git log.<br>
-<strong>step 6:The commit hash or reference was provided as an argument to git revert.
+<strong>step 6:</strong>The commit hash or reference was provided as an argument to git revert.
 </p>
